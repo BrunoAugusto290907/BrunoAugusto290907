@@ -14,7 +14,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac
 
 ### 💻 Projeto em Destaque
 
-* **Sistema Web de Avaliação de Atendimento (Projeto Integrador):** 
+* **Sistema Web de Avaliação de Atendimento :** 
   Aplicação web composta por formulário interativo de feedback, mural público com filtragem por categoria de serviço e painel administrativo para gestores (com moderação para ocultar ou excluir comentários). Integração front-end/back-end via requisições HTTP e contingência com `localStorage`.
 
 ---
